@@ -1,4 +1,4 @@
-package study.effectivejava.staticFactory.enumeration;
+package study.effectivejava.staticFactory.ref.enumeration;
 
 import java.util.EnumMap;
 import java.util.EnumSet;

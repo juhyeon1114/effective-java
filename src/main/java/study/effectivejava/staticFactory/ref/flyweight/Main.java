@@ -1,4 +1,4 @@
-package study.effectivejava.staticFactory.flyweight;
+package study.effectivejava.staticFactory.ref.flyweight;
 
 /**
  * Flyweight 패턴
